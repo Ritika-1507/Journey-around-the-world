@@ -10,6 +10,7 @@
     }
     h1{
         text-align:center;
+        text-transform:capitalize;
     }
     </style>
 </head>

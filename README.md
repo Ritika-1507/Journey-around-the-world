@@ -6,7 +6,7 @@
     <title>TRAVELLING AROUND THE WORLD</title>
     <style>
     body{
-        background-color:#E3F7FF;
+        background-color:light blue;
     }
     h1{
         text-align:center;

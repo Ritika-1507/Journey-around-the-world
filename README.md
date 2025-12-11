@@ -36,7 +36,7 @@
   </dl>
   </ul>
   <br><br>
-      <img src="https://www.shutterstock.com/search/world-travel" width="400" height="250">
+      <img src="https://www.shutterstock.com/image-photo/travel-world-monument-concept-260nw-2509692781.jpg" width="400" height="250">
   <br><br>
   <h3>Benefits of Travelling</h3>
   <br>
@@ -44,7 +44,7 @@
  <li>Boosts confidence and independence</li>
 <li>Improves communication skills</li>
 <li>Reduces stress and increases happiness</li>
-<li>Helps discover new cultures and lifestyles<\li>
+<li>Helps discover new cultures and lifestyles</li>
 <li>Builds new memories and experiences</li>
   </ul>
   <br><br>

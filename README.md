@@ -1,2 +1,91 @@
-# Journey-around-the-world
-A simple project showcasing global travel destinations.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRAVELLING AROUND THE WORLD</title>
+    <style>
+    body{
+        background-color:#E3F7FF;
+    }
+    h1{
+        text-align:center;
+    }
+    </style>
+</head>
+<body>
+    <h1>Explore the World</h1>
+    <p>“Traveling opens the door to new cultures, beautiful landscapes, and unforgettable experiences. Exploring the world helps us learn, grow, and see life from new perspectives.</p>
+  <br><br>
+    <p>Travelling involves moving between distant locations for reason such as tourism, bussiness, or migration, ofering benifits like cultural understanding, personal growth, improved cognitive health and stress redution.It allows individual to break from routine, gain new perspective,learn from diverse experiences, and develop adptabilityby navigating new environmentand culture.</p>
+  <br>
+    <img src="https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400" height="250">
+  <br>
+  <br>
+    <h2>Reason for Travelling</h2>
+  <ul>
+  <dl>
+    <li><dt>Tourism:</dt></li>
+      <dd>Exploring new places,experincing different cultures, and enjoying leisure activities.</dd>
+    <br>
+      <li><dt>Bussiness:</dt></li>
+      <dd>Comuting to work in another city for professional purposes.</dd>
+    <br>
+     <li><dt>Personal Growth and self-Discovery:</dt></li>
+      <dd>Reduces stress, increses happiness, build the comunicating skills improve build future planings.</dd>
+  </dl>
+  </ul>
+  <br><br>
+      <img src="https://www.shutterstock.com/search/world-travel" width="400" height="250">
+  <br><br>
+  <h3>Benefits of Travelling</h3>
+  <br>
+  <ul>
+ <li>Boosts confidence and independence</li>
+<li>Improves communication skills</li>
+<li>Reduces stress and increases happiness</li>
+<li>Helps discover new cultures and lifestyles<\li>
+<li>Builds new memories and experiences</li>
+  </ul>
+  <br><br>
+      <h2>Most popular places</h2>
+  <br>
+      <table border="3">
+        <tr>
+            <th>Sr.No.</th>
+            <th>Country</th>
+            <th>Visiting places</th>
+            <th>Rating</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>India</td>
+            <td>Agra</td>
+            <td>9.0/10.0 </td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Italy</td>
+            <td>Rome</td>
+            <td>8.7/10.0</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>France</td>
+            <td>Paris</td>
+            <td>9.5/10.0</td>
+       </tr>
+      </table>
+      <br><br>
+      <h2>About you</h2>
+      <form>
+        Name:<input type="text">
+        <br><br>
+        Visited Places:<input type="text">
+        <br><br>
+        Favorite Places:<input type="text">
+        <br><br>
+      </form>
+      <h6>“Travelling is more than visiting places — it’s about creating memories, discovering yourself, and understanding the world. Keep exploring!”</h6>
+</body>
+</html>
